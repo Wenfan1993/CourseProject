@@ -3,10 +3,10 @@ Final version of our project code is available as Google Colab Notebook which is
 Since modelling methodology is Transformer based it would be recommended to use GPU for processing. Google Colab is the preferred environment to run the end to end process and generate the results.
 
 ## Testing the model and Reproducing answer.txt
-User can run 'RoBERTa_Model_Test.ipynb' to use the checkpoint of our model and reproduce answer.txt. 
-Tutorial:(Tutorial/Re_produce_Answer_txt/1.mp4)
+User can run [RoBERTa_Model_Test](https://colab.research.google.com/drive/1S9g8dD7JmuT6JsJo1ysAa4e3nTCNakxk?usp=sharing) to use the checkpoint of our model and reproduce answer.txt. 
+Tutorial:()
 
-##Contribution of Team Members
+## Contribution of Team Members
 Each of us collaborated very closely in each step of reseach, experiment, and improvise. We have touch point scheduled on a weekly basis, where we shared the learning and resources, discuss our approach, and walk-through our codes. With that, each of us contributed 100% effort in each step of the project process.
 
 ##Below are the Steps in our Model Training and Output Generation 
