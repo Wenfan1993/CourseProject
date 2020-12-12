@@ -5,7 +5,7 @@ Since modelling methodology is Transformer based it would be recommended to use 
 ## Testing the model and Reproducing answer.txt
 User can run [RoBERTa_Model_Test](https://colab.research.google.com/drive/1S9g8dD7JmuT6JsJo1ysAa4e3nTCNakxk?usp=sharing) to use the checkpoint of our model and reproduce answer.txt. 
 Tutorial: [Reproduce_Answers_with_Checkpoint](TOADDLINK)
-Checkpoint: [Checkpoint](https://drive.google.com/file/d/1z1IIeU1e7DgqtAyyPWE66QyAG7h1D-sT/view?usp=sharing)
+Checkpoint available to Download from: [Checkpoint](https://drive.google.com/file/d/1z1IIeU1e7DgqtAyyPWE66QyAG7h1D-sT/view?usp=sharing)
 
 ## Contribution of Team Members
 Each of us collaborated very closely in each step of reseach, experiment, and improvise. We have touch point scheduled on a weekly basis, where we shared the learning and resources, discuss our approach, and walk-through our codes. With that, each of us contributed 100% effort in each step of the project process.
