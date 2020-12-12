@@ -9,7 +9,7 @@ Tutorial: [Reproduce_Answers_with_Checkpoint](TOADDLINK)
 
 Checkpoint available to Download from: [Checkpoint](https://drive.google.com/file/d/1z1IIeU1e7DgqtAyyPWE66QyAG7h1D-sT/view?usp=sharing)
 
-See slide 11 for detailed step-by-step guidance [Presentation](https://drive.google.com/file/d/1z1IIeU1e7DgqtAyyPWE66QyAG7h1D-sT/view?usp=sharing)
+See slide 11 for detailed step-by-step guidance [Presentation](https://github.com/Wenfan1993/CourseProject/blob/main/Text%20Classification%20Competition%20%E2%80%93%20Attention-based%20Transformers.pptx)
 
 ## Contribution of Team Members
 Each of us collaborated very closely in each step of reseach, experiment, and improvise. We have touch point scheduled on a weekly basis, where we shared the learning and resources, discuss our approach, and walk-through our codes. With that, each of us contributed 100% effort in each step of the project process.
