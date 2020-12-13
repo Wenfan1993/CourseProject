@@ -23,6 +23,7 @@ Please see video Tutorial: [Reproduce_Answers_with_Checkpoint](https://drive.goo
 Each of us collaborated very closely in each step of reseach, experiment, and improvise. We have touch point scheduled on a weekly basis, where we shared the learning and resources, discuss our approach, and walk-through our codes. With that, each of us contributed 100% effort in each step of the project process.
 
 Our team members are:
+
 Wenxi Fan (NetID: wenxif2; Email:wenxif2@illinois.edu)
 
 Abhishek Jain (NetID: aj26; Email:aj26@illinois.edu)
