@@ -5,7 +5,7 @@ Since modelling methodology is Transformer based it would be recommended to use 
 ## Testing the model and Reproducing answer.txt
 User can run [RoBERTa_Model_Test](https://colab.research.google.com/drive/1S9g8dD7JmuT6JsJo1ysAa4e3nTCNakxk?usp=sharing) to use the checkpoint of our model and reproduce answer.txt. 
 
-Tutorial: [Reproduce_Answers_with_Checkpoint](TOADDLINK)
+Tutorial: [Reproduce_Answers_with_Checkpoint](https://drive.google.com/file/d/1aa75KqPg4qnEJ5HYpZrW51ETR_UA0IDN/view?usp=sharing)
 
 Checkpoint available to Download from: [Checkpoint](https://drive.google.com/file/d/1z1IIeU1e7DgqtAyyPWE66QyAG7h1D-sT/view?usp=sharing)
 
