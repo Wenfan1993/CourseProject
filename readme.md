@@ -4,7 +4,7 @@ Final version of our project code is available as Google Colab Notebook which is
 Below are the several steps detailed to be execute to run the code end to end.
 Since modelling methodology is Transformer based it would be recommended to use GPU for processing. Google Colab is the preferred environment to run the end to end process and generate the results.
 
-## Use of our model/Testing the model and Reproducing answer.txt
+## Use of our model
 We have created the checkpoint our model, available to download from the below path. For use of our model, user can just just load the checkpoint to the API 'AutoModelForSequenceClassification'. (See https://huggingface.co/transformers/model_doc/auto.html for more details)
 For the use case of our text competition (and as an example of using our model), please refer to colab notebook [RoBERTa_Model_Test](https://colab.research.google.com/drive/1S9g8dD7JmuT6JsJo1ysAa4e3nTCNakxk?usp=sharing) fpr using the checkpoint of our model and reproducing answer.txt. 
 
