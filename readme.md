@@ -1,15 +1,23 @@
 ## Colab Notebook
-Final version of our project code is available as Google Colab Notebook which is shared and available at   [SequenceClassification](https://colab.research.google.com/drive/1nhsCc1krBzPR6LKg3Qfwq_cxHv4sr_Ib?usp=sharing). Below are the several steps detailed to be execute to run the code end to end.
+Final version of our project code is available as Google Colab Notebook which is shared and available at   [SequenceClassification](https://colab.research.google.com/drive/1nhsCc1krBzPR6LKg3Qfwq_cxHv4sr_Ib?usp=sharing). Through this code, we trained and fine-tuned the RoBERTa based transformer model for the text classification competition (identifying if the tweet is SARCASM or NOT_SARCASM), and we are able to achive f1 score higher than the base-line. 
+
+Below are the several steps detailed to be execute to run the code end to end.
 Since modelling methodology is Transformer based it would be recommended to use GPU for processing. Google Colab is the preferred environment to run the end to end process and generate the results.
 
-## Testing the model and Reproducing answer.txt
-User can run [RoBERTa_Model_Test](https://colab.research.google.com/drive/1S9g8dD7JmuT6JsJo1ysAa4e3nTCNakxk?usp=sharing) to use the checkpoint of our model and reproduce answer.txt. 
+## Use of our model/Testing the model and Reproducing answer.txt
+We have created the checkpoint our model, available to download from the below path. For use of our model, user can just just load the checkpoint to the API 'AutoModelForSequenceClassification'. (See https://huggingface.co/transformers/model_doc/auto.html for more details)
+For the use case of our text competition (and as an example of using our model), please refer to colab notebook [RoBERTa_Model_Test](https://colab.research.google.com/drive/1S9g8dD7JmuT6JsJo1ysAa4e3nTCNakxk?usp=sharing) fpr using the checkpoint of our model and reproducing answer.txt. 
 
 Tutorial: [Reproduce_Answers_with_Checkpoint](https://drive.google.com/file/d/1aa75KqPg4qnEJ5HYpZrW51ETR_UA0IDN/view?usp=sharing)
 
 Checkpoint available to Download from: [Checkpoint](https://drive.google.com/file/d/1z1IIeU1e7DgqtAyyPWE66QyAG7h1D-sT/view?usp=sharing)
 
 See slide 11 for detailed step-by-step guidance [Presentation](https://github.com/Wenfan1993/CourseProject/blob/main/Text%20Classification%20Competition%20%E2%80%93%20Attention-based%20Transformers.pptx)
+
+## Presentation and Model Testing 
+Please see [Presentation](https://github.com/Wenfan1993/CourseProject/blob/main/Text%20Classification%20Competition%20%E2%80%93%20Attention-based%20Transformers.pptx) for the slides we created for the presentation.
+
+Please see video Tutorial: [Reproduce_Answers_with_Checkpoint](https://drive.google.com/file/d/1aa75KqPg4qnEJ5HYpZrW51ETR_UA0IDN/view?usp=sharing) for step by step guidance how to re-run and test our model
 
 ## Contribution of Team Members
 Each of us collaborated very closely in each step of reseach, experiment, and improvise. We have touch point scheduled on a weekly basis, where we shared the learning and resources, discuss our approach, and walk-through our codes. With that, each of us contributed 100% effort in each step of the project process.
